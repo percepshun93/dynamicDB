@@ -1,0 +1,13 @@
+﻿Question_ID,Age,Place_of_birth,Employment_Status,Savings,Movie_Taste,Music_Taste,Medical_History,Marital_Status,Number_of_children,Highest_Qualification
+1,18-25,Asia,Employed,40k+,Horror/Thriller,Punk/Grunge Rock,No_previous_medical_conditions,Single,0,Bachelors_Degree
+2,25-35,Europe,Employed,60k+,Horror/Thriller,Heavy_Metal,Heart_Condition,Married,2,Masters_Degree
+3,35-40,America,Employed,70k+,Horror/Thriller,Post/Space Rock,Allergies,Divorced,1,PhD.
+4,18-25,Europe,Unemployed,10k+,Comedy,Pop,Asthma,Single,0,High_School
+5,25-35,America,Unemployed,20k+,Comedy,Folk,Physical_handicap,Married,2,Bachelors_Degree
+6,35-40,Asia,Unemployed,30k+,Comedy,Electronic_Dance,Parasites,Divorced,3,Masters_Degree
+7,18-25,America,Employed,80k+,Drama,Orchestra,No_previous_medical_conditions,Single,0,PhD.
+8,25-35,Asia,Employed,90k+,Drama,Rock ,Arthritis,Married,4,High_School
+9,35-40,Europe,Employed,100k+,Drama,Metal,Jaundice,Divorced,1,Bachelors_Degree
+10,18-25,Australia,Employed,50k+,Musical,Pop,Malaria,Married,2,Bachelors_Degree
+11,20-30,Australia,Unemployed,20k+,Musical,Orchestra,No_previous_medical_conditions,Married,2,Masters_Degree
+12,30-40,Australia,Employed,60k+,Musical,Punk/Grunge_Rock,Allergies,Single,1,PhD.

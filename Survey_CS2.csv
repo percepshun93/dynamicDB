@@ -1,0 +1,324 @@
+﻿Serial,City,Age,Gender,DM,Customer,Affluence,Source,Relation,Stage,Service center,Product Feature,Finance
+1,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+2,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+3,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+4,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+5,Kolkata,25-35,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+6,Mumbai,55 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+7,Hyderabad,25-35,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+8,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+9,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+10,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+11,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+12,Kolkata,25-36,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+13,Mumbai,56 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+14,Hyderabad,25-36,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+15,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+16,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+17,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+18,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+19,Kolkata,25-37,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+20,Mumbai,57 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+21,Hyderabad,25-37,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+22,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+23,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+24,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+25,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+26,Kolkata,25-38,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+27,Mumbai,58 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+28,Hyderabad,25-38,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+29,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+30,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+31,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+32,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+33,Kolkata,25-39,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+34,Mumbai,59 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+35,Hyderabad,25-39,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+36,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+37,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+38,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+39,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+40,Kolkata,25-40,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+41,Mumbai,60 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+42,Hyderabad,25-40,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+43,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+44,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+45,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+46,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+47,Kolkata,25-41,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+48,Mumbai,61 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+49,Hyderabad,25-41,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+50,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+51,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+52,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+53,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+54,Kolkata,25-42,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+55,Mumbai,62 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+56,Hyderabad,25-42,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+57,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+58,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+59,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+60,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+61,Kolkata,25-43,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+62,Mumbai,63 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+63,Hyderabad,25-43,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+64,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+65,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+66,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+67,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+68,Kolkata,25-44,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+69,Mumbai,64 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+70,Hyderabad,25-44,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+71,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+72,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+73,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+74,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+75,Kolkata,25-45,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+76,Mumbai,65 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+77,Hyderabad,25-45,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+78,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+79,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+80,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+81,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+82,Kolkata,25-46,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+83,Mumbai,66 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+84,Hyderabad,25-46,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+85,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+86,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+87,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+88,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+89,Kolkata,25-47,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+90,Mumbai,67 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+91,Hyderabad,25-47,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+92,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+93,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+94,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+95,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+96,Kolkata,25-48,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+97,Mumbai,68 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+98,Hyderabad,25-48,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+99,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+100,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+101,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+102,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+103,Kolkata,25-49,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+104,Mumbai,69 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+105,Hyderabad,25-49,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+106,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+107,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+108,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+109,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+110,Kolkata,25-50,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+111,Mumbai,70 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+112,Hyderabad,25-50,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+113,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+114,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+115,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+116,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+117,Kolkata,25-51,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+118,Mumbai,71 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+119,Hyderabad,25-51,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+120,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+121,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+122,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+123,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+124,Kolkata,25-52,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+125,Mumbai,72 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+126,Hyderabad,25-52,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+127,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+128,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+129,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+130,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+131,Kolkata,25-53,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+132,Mumbai,73 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+133,Hyderabad,25-53,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+134,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+135,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+136,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+137,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+138,Kolkata,25-54,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+139,Mumbai,74 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+140,Hyderabad,25-54,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+141,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+142,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+143,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+144,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+145,Kolkata,25-55,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+146,Mumbai,75 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+147,Hyderabad,25-55,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+148,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+149,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+150,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+151,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+152,Kolkata,25-56,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+153,Mumbai,76 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+154,Hyderabad,25-56,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+155,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+156,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+157,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+158,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+159,Kolkata,25-57,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+160,Mumbai,77 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+161,Hyderabad,25-57,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+162,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+163,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+164,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+165,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+166,Kolkata,25-58,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+167,Mumbai,78 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+168,Hyderabad,25-58,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+169,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+170,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+171,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+172,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+173,Kolkata,25-59,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+174,Mumbai,79 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+175,Hyderabad,25-59,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+176,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+177,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+178,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+179,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+180,Kolkata,25-60,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+181,Mumbai,80 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+182,Hyderabad,25-60,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+183,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+184,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+185,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+186,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+187,Kolkata,25-61,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+188,Mumbai,81 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+189,Hyderabad,25-61,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+190,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+191,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+192,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+193,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+194,Kolkata,25-62,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+195,Mumbai,82 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+196,Hyderabad,25-62,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+197,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+198,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+199,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+200,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+201,Kolkata,25-63,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+202,Mumbai,83 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+203,Hyderabad,25-63,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+204,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+205,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+206,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+207,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+208,Kolkata,25-64,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+209,Mumbai,84 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+210,Hyderabad,25-64,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+211,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+212,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+213,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+214,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+215,Kolkata,25-65,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+216,Mumbai,85 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+217,Hyderabad,25-65,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+218,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+219,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+220,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+221,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+222,Kolkata,25-66,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+223,Mumbai,86 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+224,Hyderabad,25-66,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+225,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+226,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+227,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+228,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+229,Kolkata,25-67,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+230,Mumbai,87 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+231,Hyderabad,25-67,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+232,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+233,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+234,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+235,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+236,Kolkata,25-68,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+237,Mumbai,88 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+238,Hyderabad,25-68,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+239,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+240,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+241,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+242,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+243,Kolkata,25-69,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+244,Mumbai,89 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+245,Hyderabad,25-69,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+246,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+247,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+248,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+249,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+250,Kolkata,25-70,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+251,Mumbai,90 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+252,Hyderabad,25-70,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+253,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+254,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+255,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+256,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+257,Kolkata,25-71,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+258,Mumbai,91 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+259,Hyderabad,25-71,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+260,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+261,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+262,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+263,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+264,Kolkata,25-72,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+265,Mumbai,92 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+266,Hyderabad,25-72,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+267,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+268,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+269,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+270,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+271,Kolkata,25-73,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+272,Mumbai,93 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+273,Hyderabad,25-73,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+274,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+275,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+276,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+277,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+278,Kolkata,25-74,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+279,Mumbai,94 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+280,Hyderabad,25-74,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+281,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+282,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+283,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+284,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+285,Kolkata,25-75,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+286,Mumbai,95 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+287,Hyderabad,25-75,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+288,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+289,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+290,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+291,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+292,Kolkata,25-76,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+293,Mumbai,96 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+294,Hyderabad,25-76,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+295,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+296,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+297,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+298,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+299,Kolkata,25-77,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+300,Mumbai,97 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+301,Hyderabad,25-77,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+302,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+303,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+304,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+305,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+306,Kolkata,25-78,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+307,Mumbai,98 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+308,Hyderabad,25-78,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+309,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+310,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+311,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+312,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+313,Kolkata,25-79,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+314,Mumbai,99 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+315,Hyderabad,25-79,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+316,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
+317,Ahmd,25-35,Male,General Surgeon,Hospital C 50 +/- Beds,Affluent,Other,Complaints/issues in past,Proposal Stage,A little far,Printing,Option provided
+318,Mumbai,55 plus,Male,Orthopedic,Diagnostic Center B (<50 Prints),Affluent,Cold call/refernce,Average,Proposal Stage,A little far,Printing,Option not provided
+319,Delhi,55 plus,Female,X Ray technician,Vetenerary Clinic,Higher Middle ,Digital Marketinng Lead,Average,Proposal Stage,Nearby,Image Quality,Option not provided
+320,Kolkata,25-80,Male,Vet,Hospital B 100+/- beds,Affluent,Cold call/refernce,Complaints/issues in past,Early,Well served Install base,Printing,Option provided
+321,Mumbai,100 plus,Female,General Surgeon,Vetenerary Clinic,Middle,Source,Average,Early,Nearby,Image Quality,Finance
+322,Hyderabad,25-80,Female,Businessman,Diagnostic Center C (50+/- Prints),Affluent,Cold call/refernce,New Relationship,Proposal Stage,Faraway,Image Quality,Finance
+323,Bangalore,25-35,Male,Businessman,Diagnostic Center C (50+/- Prints),Middle,Cold call/refernce,New Relationship,Early,Faraway,Printing,Option not provided
